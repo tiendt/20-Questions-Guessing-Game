@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<expr type="question">
+	<question>Are you a nature-lover?</question>
+	
+    <expr type="question">
+    	<question>Do you like outdoor activities?</question>
+    	
+    	<expr type="question">
+    		<question>Do you find tropical countries attractive?</question>
+    		
+    		<expr type="question">
+    			<question>Do you imagine yourself lying on the beach relaxing?</question>
+    			
+    			<expr type="answer">
+    				<answer>Thailand</answer>
+    			</expr>
+    			<expr type="question">
+    				<question>Love real motorbike experience?</question>
+    				<expr type="answer">
+    					<answer>Vietnam</answer>
+    				</expr>
+     				<expr type="answer">
+    					<answer>Madagasca</answer>
+    				</expr>   	
+    			 </expr>
+    		</expr>
+    						
+    		<expr type="question">
+    			<question>Are you a sport fan?</question>
+    			<expr type="answer">
+    				<answer>Australia</answer>
+    			</expr>
+    			<expr type="answer">
+    				<answer>Switzerland</answer>
+    			</expr>
+    		</expr>
+    	</expr>
+    	
+    	<expr type="question">
+    		<question>Finding a place to relax?</question>
+    		
+    		<expr type="question">
+    			<question>Is climbing mountains something you have always wanted to do?</question>
+    			
+    			<expr type="answer">
+    				<answer>New Zealand</answer>
+    			</expr>
+    			<expr type="answer">
+    				<answer>Switzerland</answer>
+    			</expr>  
+    		</expr> 	
+    							
+    		<expr type="question">
+    			<question>Looling for wild adventures?</question>
+    			<expr type="answer">
+    				<answer>Chile</answer>
+    			</expr>
+    			<expr type="answer">
+    				<answer>Italy</answer>
+    			</expr>
+    		</expr>
+    	</expr>
+     </expr>
+ 
+     <expr type="question">
+    	<question>Have the desire to wander in a big, modern city?</question>
+    	
+    	<expr type="question">
+    		<question>Does nice architecture matter?</question>
+    		
+    		<expr type="question">
+    			<question>Do you want to see amazing ancient buildings?</question>
+    			
+    			<expr type="answer">
+    				<answer>India</answer>
+    			</expr>
+    			<expr type="question">
+    				<question>Are you a fashionista?</question>
+    				<expr type="answer">
+    					<answer>France</answer>
+    				</expr>
+     				<expr type="answer">
+    					<answer>Denmark</answer>
+    				</expr> 
+    			</expr> 
+    		</expr>
+    			 						
+    		<expr type="answer">
+    			<answer>Singapore</answer>
+    		</expr>
+    	</expr>
+    			
+    	<expr type="question">
+    		<question>Do you enjoy cold weather?</question>
+    		
+    		<expr type="question">
+    			<question>Are you comfortable in a place that is not at all crowded?</question>
+    			
+    			<expr type="answer">
+    				<answer>Finland</answer>
+    			</expr>
+    			<expr type="answer">
+    				<answer>Canada</answer>
+    			</expr>  
+    		</expr> 	
+    							
+    		<expr type="question">
+    			<question>Is Asian food "a thing"?</question>
+    			<expr type="answer">
+    				<answer>Korea</answer>
+    			</expr>
+    			<expr type="answer">
+    				<answer>Mexico</answer>
+    			</expr>
+    		 </expr>
+    	</expr>
+    </expr>
+  </expr>
+    		 			     		
